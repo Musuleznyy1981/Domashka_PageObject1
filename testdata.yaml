@@ -1,0 +1,9 @@
+rl: https://test-stand.gb.ru/
+url_login: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 1
+
+login: Maxim1980
+pswd: 1d80d84ff6
+
+title: Page Object
